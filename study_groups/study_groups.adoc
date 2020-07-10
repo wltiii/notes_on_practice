@@ -1,0 +1,22 @@
+= Study Group
+
+== something goes here
+
+== Organization and Process
+. Size of the group is best suited for five to seven members, though not absolute.
+. They can be organized around many sources: Books, videoes, etc. _Issues related
+to the project could be the basis for an interesting study group._
+. The group should meet weekly, same day and time.
+. Reading (or other input) should be limited to sixty to ninety minutes per week.
+. If the material has exercises, decide of doing them should be part of the process.
+. Reading two complementary books at the same time can provide for more interesting disccsions.
+
+
+== Discussion Notes
+
+. Each meeting produces notes
+. It should be collaborative
+. It should contain only a few main discussion topics (three to four)
+. Rewrite more formally
+.. Each topic should have a one line summary
+.. It should reflect the opinions of the entire group

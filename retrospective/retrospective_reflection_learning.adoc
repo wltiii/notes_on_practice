@@ -1,0 +1,40 @@
+= Retrospectives - Learning Through Reflection
+
+== Reflection
+
+=== Benefits Of Reflection
+
+. Reflection strongly reinforces learning via retrieval and elaboration.
+
+=== After Action Reports
+
+. What was planned?
+. What actually happened?
+. What explains the difference?
+. What can be done differently?
+
+=== Other Reflection Questions
+
+. What other knowledge or experiences does it remind you of?
+. What other strategies might you use next time to get better results?
+. What might you need to learn for better mastery?
+
+== Impacts On Retrospective Practices
+
+. Have daily "mini" retro with pair partner(s)
+
+== Comments
+
+[quote,Rick K.]
+Love the idea of a daily pair retro.
+Will be thinking about what we would like to capture from each session -- work done?
+Learnings?
+Questions?
+Rate your day?
+
+== Further Resources
+
+. Make It Stick - Brown, Peter C., Roediger III, Henry L., McDaniel, Mark A.
+. The Deadline - DeMarco, Tom
+. An Introduction To Scientific Research = Wilson Jr., E. Bright
+. https://www.agilealliance.org/resources/sessions/retrospectives-moving-from-a-subjective-to-an-objective-world/ (must be a member - I have not read it.)
