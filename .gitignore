@@ -107,18 +107,8 @@ out/
 #.idea/**/markdown-navigator-enh.xml
 #.idea/**/markdown-navigator/
 
-# Cache file creation bug
-# See https://youtrack.jetbrains.com/issue/JBR-2257
-.idea/$CACHE_FILE$
-
-# End of https://www.toptal.com/developers/gitignore/api/intellij
-
-/$CACHE_FILE$
 /compiler.xml
 /misc.xml
 /modules.xml
 
-.idea/inspectionProfiles/Project_Default.xml
-/.idea/compiler.xml
-/.idea/misc.xml
-/.idea/modules.xml
+/.idea
